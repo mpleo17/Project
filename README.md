@@ -4,7 +4,7 @@
 <h3 color = Bu >Project Summary:</h3>
 <p>
   <ol>
-    <li>Project1 is about the price prediction of used cars. The algorithms used for prediction include Multiple Linear Regression, Decision Trees and Random Forests Regressor. 
+    <li><b>Project1</b> is about the price prediction of used cars. The algorithms used for prediction include Multiple Linear Regression, Decision Trees and Random Forests Regressor. 
      There are three parts of this project.</p>
 <ul>
 <li>PART1: Loading and data wrangling: This part deals with challenges like missing values and wrong data types assigned to variables that are found in real world datasets.</li>
@@ -12,7 +12,7 @@
 <li>PART3: MLR and DTR and RFR: This part consists of appliation of three different machine learning algorithms and their evaluation using MSE.</li></ul></li>
 
 <p>
-  <li>Project2 is about the prediction of possibility of subscription by users. A business decision is required to make for conducting telephonic drive only for the targeted individuals who have the maximum probability of subscribing to the plan.</li></p>
+  <li><b>Project2</b> is about the prediction of possibility of subscription by users. A business decision is required to make for conducting telephonic drive only for the targeted individuals who have the maximum probability of subscribing to the plan.</li></p>
 <ul>
   <li>Classification techiniques involving Logistic Regression, Random Forest Classifier and Decision Tree Classifier are used to classify individuals. The evaluation is done using accuracy of classification.</li></ul>
 
