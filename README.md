@@ -1,7 +1,7 @@
 ## Welcome to Mihir's GitHub Page
 <h3>About Mihir: An Analytics aspirant who wants to use data to make meaningful insights for effective business decision-making. <h3>
   
-<h3 align = "center" color = Blue>Project Summary:</h3>
+<h3 color = Bu >Project Summary:</h3>
 <h3>Project1 is about the price prediction of used cars. The algorithms used for prediction include Multiple Linear Regression, Decision Trees and Random Forests Regressor. 
 There are three parts of this project</h3>
 <ul>
