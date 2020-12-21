@@ -14,5 +14,5 @@ There are three parts of this project</h3>
 <ul><li>Classification techiniques involving Logistic Regression, Random Forest Classifier and Decision Tree Classifier are used to classify individuals. The evaluation is done using accuracy of classification.</li></ul>
 
 <h3>Other websites and links:</h3>
-<li>Data Visualization projects of Tableau Public:<a href="https://public.tableau.com/profile/mpleo17" target="_blank">https://public.tableau.com/profile/mpleo17</a></li>
-<li>Earned badges on Acclaim: <a href="youracclaim.com/users/mihir-patel.2c34ba13" target="_blank">https://www.youracclaim.com/users/mihir-patel.2c34ba13/badges</a></li>
+<li>Data Visualization projects of Tableau Public: <a href="https://public.tableau.com/profile/mpleo17" target="_blank">https://public.tableau.com/profile/mpleo17</a></li>
+<li>Earned badges on Acclaim: <a href="https://www.youracclaim.com/users/mihir-patel.2c34ba13/badges" target="_blank">https://www.youracclaim.com/users/mihir-patel.2c34ba13/badges</a></li>
