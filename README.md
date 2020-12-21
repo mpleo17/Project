@@ -2,8 +2,8 @@
 <h3>About Mihir: An Analytics aspirant who wants to use data to make meaningful insights for effective business decision-making. <h3>
   
 <h3 color = Bu >Project Summary:</h3>
-<li>Project1 is about the price prediction of used cars. The algorithms used for prediction include Multiple Linear Regression, Decision Trees and Random Forests Regressor. 
-There are three parts of this project
+<li><h3>Project1 is about the price prediction of used cars. The algorithms used for prediction include Multiple Linear Regression, Decision Trees and Random Forests Regressor. 
+     There are three parts of this project.</h3>
 <ul>
 <li>PART1: Loading and data wrangling: This part deals with challenges like missing values and wrong data types assigned to variables that are found in real world datasets.</li>
 <li>PART2: Exploratory Data Analysis: This part is used to identify the significant independent variables that affect the target variable.</li>
