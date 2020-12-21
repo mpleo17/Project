@@ -22,4 +22,3 @@
 <h3>Other websites and links:</h3>
 <li>Data Visualization projects of Tableau Public: <a href="https://public.tableau.com/profile/mpleo17" target="_blank">https://public.tableau.com/profile/mpleo17</a></li>
 <li>Earned badges on Acclaim: <a href="https://www.youracclaim.com/users/mihir-patel.2c34ba13/badges" target="_blank">https://www.youracclaim.com/users/mihir-patel.2c34ba13/badges</a></li>
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
