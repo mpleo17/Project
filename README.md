@@ -1,4 +1,4 @@
-### Welcome to Mihir's GitHub Pages
+## Welcome to Mihir's GitHub Pages
 <h2>About Mihir: An Analytics aspirant who wants to use data to make meaningful insights for effective business decision-making. <h2>
   
 <h2>Project Summary:</h2>
