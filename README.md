@@ -1,4 +1,4 @@
-## Welcome to Mihir's GitHub Pages
+## Welcome to Mihir's GitHub Page
 <h3>About Mihir: An Analytics aspirant who wants to use data to make meaningful insights for effective business decision-making. <h3>
   
 <h3 align = "center" color = Blue>Project Summary:</h3>
