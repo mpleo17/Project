@@ -12,3 +12,7 @@ There are three parts of this project</h3>
 
 <h3>Project2 is about the prediction of possibility of subscription by users. A business decision is required to make for conducting telephonic drive only for the targeted individuals who have the maximum probability of subscribing to the plan.</h3>
 <ul><li>Classification techiniques involving Logistic Regression, Random Forest Classifier and Decision Tree Classifier are used to classify individuals. The evaluation is done using accuracy of classification.</li></ul>
+
+Other websites and links:
+Data Visualization projects of Tableau Public: https://public.tableau.com/profile/mpleo17
+Earned badges on Acclaim: youracclaim.com/users/mihir-patel.2c34ba13
