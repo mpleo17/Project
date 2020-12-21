@@ -2,25 +2,11 @@
 
 About Mihir: An Analytics aspirant who wants to use data to make meaningful insights for effective business decision-making. 
 
+Project Summary:
+Project1 is about the price prediction of used cars. The algorithms used for prediction include Multiple Linear Regression, Decision Trees and Random Forests Regressor. 
+There are three parts of this project
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-This is mihir's area
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
