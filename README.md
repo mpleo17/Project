@@ -1,7 +1,7 @@
 ## Welcome to Mihir's GitHub Pages
 <h3>About Mihir: An Analytics aspirant who wants to use data to make meaningful insights for effective business decision-making. <h3>
   
-<h2 align = "center" color = Blue>Project Summary:</h2>
+<h3 align = "center" color = Blue>Project Summary:</h3>
 <h3>Project1 is about the price prediction of used cars. The algorithms used for prediction include Multiple Linear Regression, Decision Trees and Random Forests Regressor. 
 There are three parts of this project</h3>
 <ul>
@@ -13,6 +13,6 @@ There are three parts of this project</h3>
 <h3>Project2 is about the prediction of possibility of subscription by users. A business decision is required to make for conducting telephonic drive only for the targeted individuals who have the maximum probability of subscribing to the plan.</h3>
 <ul><li>Classification techiniques involving Logistic Regression, Random Forest Classifier and Decision Tree Classifier are used to classify individuals. The evaluation is done using accuracy of classification.</li></ul>
 
-Other websites and links:
-Data Visualization projects of Tableau Public: https://public.tableau.com/profile/mpleo17
-Earned badges on Acclaim: youracclaim.com/users/mihir-patel.2c34ba13
+<h3>Other websites and links:</h3>
+<ul>Data Visualization projects of Tableau Public: https://public.tableau.com/profile/mpleo17 <ul>
+<ul>Earned badges on Acclaim: youracclaim.com/users/mihir-patel.2c34ba13 <ul>
