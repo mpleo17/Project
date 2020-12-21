@@ -9,7 +9,7 @@ There are three parts of this project</h3>
 
 <li>PART1: Loading and data wrangling: This part deals with challenges like missing values and wrong data types assigned to variables that are found in real world datasets.</li>
 <li>PART2: Exploratory Data Analysis: This part is used to identify the significant independent variables that affect the target variable.</li>
-<li>PART3: MLR and DTR and RFR: This part consists of appliation of three different machine learning algorithms and their evaluation using MSE.</li></ul>
+<li>PART3: MLR and DTR and RFR: This part consists of appliation of three different machine learning algorithms and their evaluation using MSE.</ul></li>
 
 
 <h3>Project2 is about the prediction of possibility of subscription by users. A business decision is required to make for conducting telephonic drive only for the targeted individuals who have the maximum probabiity of subscribing to the plan.</h3>
